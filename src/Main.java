@@ -5,6 +5,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
         int randomnumber = input.nextInt();
         System.out.println(randomnumber);
+        System.out.println("done");
 
     }
 }
